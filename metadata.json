@@ -1,0 +1,7 @@
+{
+  "name": "扫码结账管家",
+  "description": "一个支持条形码扫描、库存管理、订单统计及数据导入导出的移动端结账管理工具。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
